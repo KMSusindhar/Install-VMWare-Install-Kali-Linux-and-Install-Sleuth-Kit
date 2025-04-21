@@ -59,12 +59,13 @@ VIRTUAL BOX:
 
 KALI LINUX:
 
-![image](https://github.com/user-attachments/assets/3d503c34-0719-4ec9-986c-beb0a971e0d8)
+![image](https://github.com/user-attachments/assets/b17b4c04-8738-4afd-8510-a2d13cd163d2)
+
 
 
 SLEUTH-KIT:
 
-![image](https://github.com/user-attachments/assets/731bbf40-0c79-4b78-b91a-6191697ce843)
+![image](https://github.com/user-attachments/assets/3d503c34-0719-4ec9-986c-beb0a971e0d8)
 
 
 RESULT:
